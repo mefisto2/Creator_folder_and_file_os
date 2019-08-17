@@ -1,0 +1,135 @@
+$ curl -X GET https://api.mercadolibre.com/sites/MLU/search?category=MLU1574&official_store_id=all&access_token=$ACCESS_TOKEN
+
+
+
+
+
+
+
+
+
+
+{
+  "id": "MLU1574",
+  "name": "Hogar, Muebles y Jardín",
+  "picture": "http://resources.mlstatic.com/category/images/5194ee98-9095-4ef6-b9a5-c78073fa60af.png",
+  "permalink": "http://home.mercadolibre.com.uy/hogar-muebles/",
+  "total_items_in_this_category": 94954,
+  "path_from_root": [
+    {
+      "id": "MLU1574",
+      "name": "Hogar, Muebles y Jardín"
+    }
+  ],
+  "children_categories": [
+    {
+      "id": "MLU1613",
+      "name": "Baño",
+      "total_items_in_this_category": 5217
+    },
+    {
+      "id": "MLU1592",
+      "name": "Cocina y Bazar",
+      "total_items_in_this_category": 14227
+    },
+    {
+      "id": "MLU164210",
+      "name": "Comedor",
+      "total_items_in_this_category": 4030
+    },
+    {
+      "id": "MLU1631",
+      "name": "Decoración",
+      "total_items_in_this_category": 17393
+    },
+    {
+      "id": "MLU1608",
+      "name": "Dormitorio",
+      "total_items_in_this_category": 11250
+    },
+    {
+      "id": "MLU68166",
+      "name": "Escritorio",
+      "total_items_in_this_category": 2908
+    },
+    {
+      "id": "MLU1582",
+      "name": "Iluminación para el Hogar",
+      "total_items_in_this_category": 7246
+    },
+    {
+      "id": "MLU1621",
+      "name": "Jardín y Exterior",
+      "total_items_in_this_category": 12422
+    },
+    {
+      "id": "MLU164205",
+      "name": "Living",
+      "total_items_in_this_category": 9750
+    },
+    {
+      "id": "MLU1902",
+      "name": "Otros",
+      "total_items_in_this_category": 5693
+    },
+    {
+      "id": "MLU165327",
+      "name": "Pisos, Paredes y Aberturas",
+      "total_items_in_this_category": 4818
+    }
+  ],
+  "attribute_types": "none",
+  "settings": {
+    "adult_content": false,
+    "buying_allowed": true,
+    "buying_modes": [
+      "buy_it_now",
+      "auction"
+    ],
+    "coverage_areas": "not_allowed",
+    "currencies": [
+      "USD",
+      "UYU"
+    ],
+    "fragile": false,
+    "immediate_payment": "optional",
+    "item_conditions": [
+      "not_specified",
+      "new",
+      "used"
+    ],
+    "items_reviews_allowed": false,
+    "max_description_length": 50000,
+    "max_pictures_per_item": 12,
+    "max_sub_title_length": 70,
+    "max_title_length": 60,
+    "price": "required",
+    "restrictions": [
+    ],
+    "rounded_address": false,
+    "seller_contact": "not_allowed",
+    "shipping_modes": [
+      "not_specified",
+      "custom"
+    ],
+    "shipping_options": [
+      "carrier",
+      "custom"
+    ],
+    "shipping_profile": "optional",
+    "show_contact_information": false,
+    "simple_shipping": "optional",
+    "stock": "required",
+    "sub_vertical": null,
+    "tags": [
+    ],
+    "vertical": null,
+    "vip_subdomain": "articulo",
+    "mirror_category": null,
+    "listing_allowed": false,
+    "maximum_price": null,
+    "minimum_price": null
+  },
+  "meta_categ_id": null,
+  "attributable": false
+}

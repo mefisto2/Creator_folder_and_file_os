@@ -1,0 +1,12 @@
+Este script te permite ejecutar Creador.
+Y agregar contenido en el (lineas)
+
+*******Se require previa instalacion de python***********
+
+
+
+This script allows you to run Creator.
+And add content in the (lines)
+
+
+******* Prior installation of python is required ***********

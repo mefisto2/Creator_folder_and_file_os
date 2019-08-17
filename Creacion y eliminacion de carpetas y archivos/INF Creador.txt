@@ -1,0 +1,25 @@
+Este script te permite:
+Crear archivos
+Crear carpetas
+Eliminar archivos
+Eliminar carpetas
+Agregar contenido (solo 1 linea)
+
+*******Se require previa instalacion de python***********
+
+
+
+
+
+
+
+
+
+This script allows you to:
+Create files
+Create folders
+Delete files
+Delete folders
+Add content (only 1 line)
+
+******* Prior installation of python is required ***********
